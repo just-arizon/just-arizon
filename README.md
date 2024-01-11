@@ -2,9 +2,9 @@
   
 - 👀 I am Arinze, working on a sign-up of a product maintained by Build-Generation.
 - 💻 I’m a front-end developer and a content creator on Tktok, YouTube and Instagram. 
-<!-- - 🎓 I graduated in 2021 from GGSIPU, Delhi (B.Tech, CSE) with a CGPA of 9.12 -->
 - 🌱 I’m currently learning TypeScript
 - 💞️ Interests: video games, creating content. 
+<!-- - 🎓 I graduated in 2021 from GGSIPU, Delhi (B.Tech, CSE) with a CGPA of 9.12 -->
 
 ## Tech Stack 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
