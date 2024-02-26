@@ -1,11 +1,12 @@
-  ## Hello there 👋
+  ## Hello there, I'm Arinze 👋
+  I have a strong enthusiasm and interest in creating and designing digital products, interfaces, and interactions that provide meaningful and engaging experiences for users.
   
-- 👀 I am Arinze, working on a sign-up of a product maintained by Build-Generation.
-- 💻 I’m a front-end developer and a content creator on Tktok, YouTube and Instagram. 
-- 🌱 I’m currently learning TypeScript
-- 💞️ Interests: video games, creating content. 
-<!-- - 🎓 I graduated in 2021 from GGSIPU, Delhi (B.Tech, CSE) with a CGPA of 9.12 -->
+  ## 📦 Toolbox
+  **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` 
+  **Version Control:** `Git` `GitLab` `Bitbucket`
 
+  
+<!--
 ## Tech Stack 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -15,7 +16,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
+-->
 <!-- ## Contact Me
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AparnaSoneja)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aparna-35066b191/)
