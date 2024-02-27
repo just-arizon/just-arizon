@@ -3,7 +3,9 @@
   
   ## 📦 Toolbox
   **Frontend Development:** `React` `Next.js` `TypeScript` `HTML` `CSS` `JavaScript` 
+  
    **Libraries:** `Tailwind UI` `Material-UI` `NextUI` `Swiper` `HeroIcons`
+   
   **Version Control:** `GitHub` `Git` `GitLab` `Bitbucket`
 
   
