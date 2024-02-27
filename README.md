@@ -2,9 +2,9 @@
   I have a strong enthusiasm and interest in creating and designing digital products, interfaces, and interactions that provide meaningful and engaging experiences for users.
   
   ## 📦 Toolbox
-  **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` 
-  
-  **Version Control:** `Git` `GitLab` `Bitbucket`
+  **Frontend Development:** `React` `Next.js` `TypeScript` `HTML` `CSS` `JavaScript` 
+   **Libraries:** `Tailwind UI` `Material-UI` `NextUI` `Swiper` `HeroIcons`
+  **Version Control:** `GitHub` `Git` `GitLab` `Bitbucket`
 
   
 <!--
