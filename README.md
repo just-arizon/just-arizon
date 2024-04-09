@@ -1,6 +1,6 @@
   ## Hello there, I'm Arinze 👋
-  I have a strong enthusiasm and interest in creating and designing digital products, interfaces, and interactions that provide meaningful and engaging experiences for users.
-  
+ Converting Designs to Responsive & Conversion-Driven Websites and applications.
+ 
   ## 📦 Toolbox
   **Frontend Development:** `React` `Next.js` `TypeScript` `HTML` `CSS` `JavaScript` 
   
