@@ -1,5 +1,5 @@
   ## Hello there, I'm Arinze 👋
- Converting Designs to Responsive & Conversion-Driven Websites and applications.
+ As a Front-End Developer with a passion for creating impactful digital experiences, I bring a diverse skill set that spans development, design, and a keen understanding of user experience. My journey has been driven by a commitment to growth, always positioning myself for success by staying focused on the user and their needs.
  
   ## 📦 Toolbox
   **Frontend Development:** `React` `Next.js` `TypeScript` `HTML` `CSS` `JavaScript` 
